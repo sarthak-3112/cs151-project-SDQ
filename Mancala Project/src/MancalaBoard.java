@@ -9,7 +9,7 @@ public class MancalaBoard {
 	private JButton style1; // board game style 1
     private JButton style2; // board game style 2
 
-    
+    //testing branch push
     
 	public MancalaBoard()
     {
