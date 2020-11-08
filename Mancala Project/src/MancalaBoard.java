@@ -38,7 +38,7 @@ public class MancalaBoard {
       
     }
 	public static void main(String[] args){
-		//test 
+		
         new MancalaBoard();
 	}
 
